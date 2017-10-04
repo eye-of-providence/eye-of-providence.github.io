@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Oct 2017 01:17:13 at http://premiumlayers.net/demo/html/vcard/vcard/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://premiumlayers.net/demo/html/vcard/vcard/ -O1 "D:\Extra\New folder\cv" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:18:30	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/img/favicon.ico (from premiumlayers.net/demo/html/vcard/vcard/)
+01:18:30	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/img/apple-touch-icon.png (from premiumlayers.net/demo/html/vcard/vcard/)
+01:18:30	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/img/apple-touch-icon-72x72.png (from premiumlayers.net/demo/html/vcard/vcard/)
+01:18:30	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/img/apple-touch-icon-114x114.png (from premiumlayers.net/demo/html/vcard/vcard/)
+01:18:30	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/img/apple-touch-icon-144x144.png (from premiumlayers.net/demo/html/vcard/vcard/)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/fonts/glyphicons-halflings-regular.eot (from premiumlayers.net/demo/html/vcard/vcard/css/bootstrap.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/fonts/glyphicons-halflings-regular.eot? (from premiumlayers.net/demo/html/vcard/vcard/css/bootstrap.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/fonts/glyphicons-halflings-regular.woff (from premiumlayers.net/demo/html/vcard/vcard/css/bootstrap.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/fonts/glyphicons-halflings-regular.ttf (from premiumlayers.net/demo/html/vcard/vcard/css/bootstrap.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/fonts/glyphicons-halflings-regular.svg (from premiumlayers.net/demo/html/vcard/vcard/css/bootstrap.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/images/success.png (from premiumlayers.net/demo/html/vcard/vcard/css/style.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/images/error.png (from premiumlayers.net/demo/html/vcard/vcard/css/style.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/fonts/flexslider-icon.eot (from premiumlayers.net/demo/html/vcard/vcard/css/flexslider.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/fonts/flexslider-icon.eot? (from premiumlayers.net/demo/html/vcard/vcard/css/flexslider.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/fonts/flexslider-icon.woff (from premiumlayers.net/demo/html/vcard/vcard/css/flexslider.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/fonts/flexslider-icon.ttf (from premiumlayers.net/demo/html/vcard/vcard/css/flexslider.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/fonts/flexslider-icon.svg (from premiumlayers.net/demo/html/vcard/vcard/css/flexslider.css)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/jquery.mCustomScrollbar.css (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/js/owl-carousel/owl.carousel.css (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/js/owl-carousel/owl.theme.css (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/js/owl-carousel/owl.transitions.css (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:01	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/colors/full-black.css (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:04	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/colors/yellow-black (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:04	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/colors/green-black (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:04	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/colors/red-black (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:04	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/colors/blue-black (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:04	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/colors/violet-black (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:04	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/colors/orange-black (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:04	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/colors/pink-black (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:04	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/css/colors/pale-green-black (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+01:19:04	Error: 	"Not Found" (404) at link premiumlayers.net/demo/html/vcard/vcard/js/jquery.mCustomScrollbar.concat.min.js (from premiumlayers.net/demo/html/vcard/vcard/blog-single.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 51 seconds : 103 links scanned, 71 files written (2606342 bytes overall) [2591449 bytes received at 23346 bytes/sec], 63619 bytes transferred using HTTP compression in 3 files, ratio 18%, 14.7 requests per connection
+(31 errors, 0 warnings, 0 messages)
